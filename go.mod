@@ -1,4 +1,4 @@
-module github.com/arttor/helmify
+module github.com/thomasjardin/helmify
 
 go 1.18
 
